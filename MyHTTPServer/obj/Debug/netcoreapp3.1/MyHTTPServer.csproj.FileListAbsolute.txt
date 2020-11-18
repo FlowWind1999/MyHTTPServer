@@ -1,0 +1,15 @@
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.exe
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.deps.json
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.runtimeconfig.json
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.runtimeconfig.dev.json
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.dll
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\MyHTTPServer.pdb
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.csprojAssemblyReference.cache
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.AssemblyInfoInputs.cache
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.AssemblyInfo.cs
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.dll
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.pdb
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.genruntimeconfig.cache
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.csproj.CoreCompileInputs.cache
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\zzm\code\C#\MyHTTPServer\MyHTTPServer\obj\Debug\netcoreapp3.1\MyHTTPServer.csproj.CopyComplete

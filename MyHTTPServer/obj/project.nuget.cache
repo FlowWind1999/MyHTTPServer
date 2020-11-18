@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm15pmjpitaEFtNUdp0/YG7PoaMz4BMYfyvlsZHOhdf0whoKhzK5FncG6sTDRl8vMi9n6fKOmceiPAFNIO3NGA==",
+  "success": true,
+  "projectFilePath": "D:\\zzm\\code\\C#\\MyHTTPServer\\MyHTTPServer\\MyHTTPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zzm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
